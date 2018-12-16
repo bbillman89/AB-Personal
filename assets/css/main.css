@@ -1,0 +1,31 @@
+* {
+    font-family: 'Signika', sans-serif;
+    font-weight: 300;
+}
+
+nav {
+    display: flex;
+    height: 75px;
+    width: 100%;
+    background-color: rgb(0, 105, 105)
+}
+
+nav a {
+    font-size: 20pt;
+    color: white;
+    text-decoration: none;
+    width: 200px;
+    text-align: center;
+    margin-top: 25px;
+}
+
+section {
+    width: 1200px;
+    margin: auto;
+    margin-top: 50px;
+    border: 1pt solid rgb(0, 105, 105);
+}
+
+.main-content {
+    margin: 50px;
+}
